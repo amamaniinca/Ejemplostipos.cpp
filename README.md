@@ -1,1 +1,1 @@
-# Ejemplostipos.cpp
+# Ejemplostipos
